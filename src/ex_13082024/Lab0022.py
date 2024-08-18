@@ -1,4 +1,4 @@
-# Take a user inputs a,b and calculate the sum, mul, div, sub
+1# Take a user inputs a,b and calculate the sum, mul, div, sub
 # Cal
 
 num1 = int(input("Enter the num 1"))
