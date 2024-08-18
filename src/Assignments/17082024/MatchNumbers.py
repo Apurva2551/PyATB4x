@@ -1,0 +1,5 @@
+num1=int(input("Enter First Number"))
+num2=int(input("Enter Second Number"))
+print("First Number is Equal to Second Number",num1==num2)
+print("First Number is Grater than Second Number",num1>num2)
+print("First Number is Less than Second Number",num1<num2)
