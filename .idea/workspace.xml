@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80da9e81-7d58-4a88-af0f-1e93dcb83738" name="Changes" comment="Added File">
+      <change afterPath="$PROJECT_DIR$/src/Assignments/20082024/FizzBuzzTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/20082024/LeapYear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/20082024/Square&amp;Cube.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/20082024/TriangleClassifier.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,10 +62,12 @@
     "Python.BasicEx7.executor": "Run",
     "Python.BasicEx8.executor": "Run",
     "Python.BasicEx9.executor": "Run",
+    "Python.FizzBuzzTest.executor": "Run",
     "Python.Lab00023.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
     "Python.Lab0022.executor": "Run",
+    "Python.LeapYear.executor": "Run",
     "Python.Length.executor": "Run",
     "Python.MatchNumbers.executor": "Run",
     "Python.Math.executor": "Run",
@@ -77,8 +83,10 @@
     "Python.Q7.executor": "Run",
     "Python.Q8.executor": "Run",
     "Python.Q9.executor": "Run",
+    "Python.Square&Cube.executor": "Run",
     "Python.Table.executor": "Run",
     "Python.Task2.executor": "Run",
+    "Python.TriangleClassifier.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -195,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723992759021</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added File">
+      <option name="closed" value="true" />
+      <created>1724127706089</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724127706090</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
