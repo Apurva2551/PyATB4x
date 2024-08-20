@@ -5,15 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80da9e81-7d58-4a88-af0f-1e93dcb83738" name="Changes" comment="Added File">
-      <change afterPath="$PROJECT_DIR$/src/Practice/BasicEx10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/BasicEx2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/BasicEx3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/BasicEx4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/BasicEx5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/BasicEx6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/BasicEx7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/BasicEx8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/BasicEx9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,12 +66,31 @@
     "Python.MatchNumbers.executor": "Run",
     "Python.Math.executor": "Run",
     "Python.Opearators.executor": "Run",
+    "Python.Q1.executor": "Run",
+    "Python.Q10.executor": "Run",
+    "Python.Q11.executor": "Run",
+    "Python.Q2.executor": "Run",
+    "Python.Q3.executor": "Run",
+    "Python.Q4.executor": "Run",
+    "Python.Q5.executor": "Run",
+    "Python.Q6.executor": "Run",
+    "Python.Q7.executor": "Run",
+    "Python.Q8.executor": "Run",
+    "Python.Q9.executor": "Run",
     "Python.Table.executor": "Run",
     "Python.Task2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\PyATB4x\PracticeQuestions\ChatgptQuestions" />
+      <recent name="C:\Users\Admin\PycharmProjects\PyATB4x\PracticeQuestions" />
+      <recent name="C:\Users\Admin\PycharmProjects\PyATB4x\" />
+      <recent name="C:\Users\Admin\PycharmProjects\PyATB4x\src" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -161,7 +171,31 @@
       <option name="project" value="LOCAL" />
       <updated>1723969592825</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added File">
+      <option name="closed" value="true" />
+      <created>1723981194670</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1723981194671</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added File">
+      <option name="closed" value="true" />
+      <created>1723981253127</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1723981253127</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added File">
+      <option name="closed" value="true" />
+      <created>1723992759021</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1723992759021</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
