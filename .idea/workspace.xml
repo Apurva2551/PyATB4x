@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80da9e81-7d58-4a88-af0f-1e93dcb83738" name="Changes" comment="Added File" />
+    <list default="true" id="80da9e81-7d58-4a88-af0f-1e93dcb83738" name="Changes" comment="Added File">
+      <change afterPath="$PROJECT_DIR$/src/Assignments/22082024/Factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/22082024/Fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +63,7 @@
     &quot;Python.BasicEx9.executor&quot;: &quot;Run&quot;,
     &quot;Python.Division.executor&quot;: &quot;Run&quot;,
     &quot;Python.Evenodd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Factorial.executor&quot;: &quot;Run&quot;,
     &quot;Python.FizzBuzzTest.executor&quot;: &quot;Run&quot;,
     &quot;Python.Fullname.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab00023.executor&quot;: &quot;Run&quot;,
@@ -241,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724262384590</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Added File">
+      <option name="closed" value="true" />
+      <created>1724324329454</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1724324329454</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
